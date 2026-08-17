@@ -1,22 +1,47 @@
-# AI Tools & Mini Project
-
-## Project Title
 AI Text Assistant
 
-## AI Tools Explored
-- ChatGPT
-- Google Gemini
-- Microsoft Copilot
+Project Overview
 
-## What I Learned
-I learned how AI tools can assist with coding, research, and productivity.
+AI Text Assistant is a simple Python-based project that demonstrates how AI tools can support text processing, coding, research and productivity.
 
-## Mini Project
-I created a simple Python-based AI Text Assistant that accepts text from the user and provides basic text analysis.
+Features
 
-## Technologies Used
+- Accepts text input from the user
+- Displays the original text
+- Counts words and characters
+- Provides an AI assistant suggestion
+- Gives a simple text summary based on the text length
+
+Technologies Used
+
 - Python
-- AI Tools
+- AI Tools: ChatGPT, Gemini and Microsoft Copilot
 
-## Learning Outcome
-This project helped me understand the practical use of AI tools and how they can improve productivity and support coding tasks.
+How to Run
+
+1. Install Python on your computer.
+2. Download or clone this project from GitHub.
+3. Open the project folder.
+4. Run the following command:
+
+python ai_text_assistant.py
+
+5. Enter your text when prompted.
+
+Example
+
+The program displays:
+
+- Original text
+- Word count
+- Character count
+- AI assistant suggestion
+- Simple summary
+
+Learning Outcome
+
+This project helped me practice Python programming and understand how AI tools can be used for coding, research and productivity.
+
+Project Status
+
+Completed
