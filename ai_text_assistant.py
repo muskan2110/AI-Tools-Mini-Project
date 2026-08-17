@@ -8,4 +8,4 @@ print(text)
 print("\nWord Count:", len(text.split()))
 
 print("\nAI Assistant Suggestion:")
-print("AI tools like ChatGPT, Gemini, and Microsoft Copilot can help with coding, research, and productivity.")
+print("AI tools like ChatGPT, Gemini and Microsoft Copilot can help with coding, research and productivity.")
